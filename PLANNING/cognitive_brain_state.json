@@ -1,0 +1,87 @@
+{
+  "project_name": "ALL SKILLS",
+  "project_root": "/media/uniai/UniAi/PROJECTS_MIGRATED/ALL SKILLS",
+  "last_brain_sync_iso": "2026-11-19T23:26:23.885421",
+  "memory_tier_status": {
+    "tier_0_working_memory": "ACTIVE (Subagent mailboxes, current scratchpad, reactive context)",
+    "tier_1_symbolic_ast": "SYNCHRONIZED (0 Entities, 0 UI Composables, Kotlin AST)",
+    "tier_2_episodic_memory": "SYNCHRONIZED (10 chronological dev log milestones)",
+    "tier_3_semantic_graph": "SYNCHRONIZED (HippoRAG 2 PageRank across 1 subprojects)",
+    "tier_4_epistemic_invariants": "ENFORCED (Sovereign Invariant Laws, Zero-@Suppress Rule, Law ACC-001)"
+  },
+  "monorepo_metrics": {
+    "active_subprojects_count": 1,
+    "subprojects": [
+      ":app"
+    ],
+    "entities_count": 0,
+    "composables_count": 0,
+    "latest_milestone": "## \ud83d\udcc5 Date: 2026-11-19 \u2014 3 Final Sovereign Upgrades Deployed (System Doctor, Staleness Linter & Dynamic Shell Auto-Completion)"
+  },
+  "quality_gates": {
+    "spotless_ktlint": "100% PASSED",
+    "detekt_static_analysis": "100% PASSED (0 warnings, 0 errors, 0 @Suppress)",
+    "unit_tests_pass_rate": "100% PASSED",
+    "android_apk_packaging": "PASSED (assembleDebug)"
+  },
+  "roadmap_execution_status": {
+    "phase_1_project_base_established___compr": "COMPLETED",
+    "phase_2_antigravity_skill_manager__unisk": "COMPLETED",
+    "phase_3_deep_research___active_skill_exe": "COMPLETED",
+    "phase_4_dynamic_100__convergence_engine": "COMPLETED",
+    "phase_5_multi_root_omniscient_discovery": "COMPLETED",
+    "phase_6_unigov___uniskill_deep_marriage": "COMPLETED",
+    "phase_7_4_major_autonomous_upgrades_depl": "COMPLETED",
+    "phase_8_3_sovereign_upgrades_deployed__n": "COMPLETED",
+    "phase_9_4_advanced_sovereign_upgrades_de": "COMPLETED",
+    "phase_10_3_final_sovereign_upgrades_deplo": "COMPLETED"
+  },
+  "deliberative_reasoning_gate": {
+    "engine": "UniCortexDeliberativeReasoner v2.0",
+    "grounding_architectures": [
+      "rStar",
+      "treequest",
+      "agent-q",
+      "moatless-tools",
+      "Agentless",
+      "llm-reasoners",
+      "open-r1"
+    ],
+    "system_2_deliberation": "ACTIVE",
+    "self_critique_gate": "ARMED",
+    "ast_localization": "ENABLED"
+  },
+  "uniagi_epistemic_learning_state": {
+    "cortex_db_path": "/media/uniai/UniAi/AI/UniAGI/uniagi_experience_master.db",
+    "merkle_chain_valid": true,
+    "total_l0_episodes": 15338,
+    "total_l2_candidates": 11,
+    "active_l3_verified_assets": 12261,
+    "latest_consolidation": {
+      "l0_processed": 0,
+      "l1_generated": 0,
+      "l2_updated": 9,
+      "l3_promoted": 4,
+      "l3_invalidated": 0,
+      "total_active_l3_assets": 12261
+    },
+    "latest_materialization": {
+      "skills_updated": 4,
+      "assets_materialized": 12261,
+      "files_written": [
+        "/home/uniai/.agents/skills/kotlin-systems-architect/SKILL.md",
+        "/home/uniai/.gemini/antigravity/skills/kotlin-systems-architect/SKILL.md",
+        "/home/uniai/.gemini/antigravity-ide/skills/kotlin-systems-architect/SKILL.md",
+        "/home/uniai/.agents/skills/double-entry-accounting-and-ledger/SKILL.md",
+        "/home/uniai/.gemini/antigravity/skills/double-entry-accounting-and-ledger/SKILL.md",
+        "/home/uniai/.gemini/antigravity-ide/skills/double-entry-accounting-and-ledger/SKILL.md",
+        "/home/uniai/.agents/skills/compose-design-system-lead/SKILL.md",
+        "/home/uniai/.gemini/antigravity/skills/compose-design-system-lead/SKILL.md",
+        "/home/uniai/.gemini/antigravity-ide/skills/compose-design-system-lead/SKILL.md",
+        "/home/uniai/.agents/skills/local-data-offline-architect/SKILL.md",
+        "/home/uniai/.gemini/antigravity/skills/local-data-offline-architect/SKILL.md",
+        "/home/uniai/.gemini/antigravity-ide/skills/local-data-offline-architect/SKILL.md"
+      ]
+    }
+  }
+}

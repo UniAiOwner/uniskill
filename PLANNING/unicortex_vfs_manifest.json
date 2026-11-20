@@ -1,0 +1,137 @@
+{
+  "project_root": "/media/uniai/UniAi/PROJECTS_MIGRATED/ALL SKILLS",
+  "total_files": 32,
+  "all_relative_paths": [
+    ".unigov/sentinel.json",
+    "PLANNING/18_skills_unigov_upgrade_plan.md",
+    "PLANNING/all skills_codebase_map.md",
+    "PLANNING/antigravity_skill_manager_deep_research.md",
+    "PLANNING/cognitive_brain_state.json",
+    "PLANNING/gsie_task_reviews.json",
+    "PLANNING/unicortex_holographic_manifest.json",
+    "PLANNING/unicortex_vfs_manifest.json",
+    "PLANNING/unigov_skills_taxonomy_911.md",
+    "README.md",
+    "dev_logs.txt",
+    "src/uniskill/__init__.py",
+    "src/uniskill/cli.py",
+    "src/uniskill/elevate.py",
+    "src/uniskill/evaluator.py",
+    "src/uniskill/forge.py",
+    "src/uniskill/invariants.py",
+    "src/uniskill/learner.py",
+    "src/uniskill/registry.py",
+    "src/uniskill/router.py",
+    "src/uniskill/runner.py",
+    "src/uniskill/sync.py",
+    "src/uniskill/upgrader.py",
+    "tests/test_elevate.py",
+    "tests/test_evaluator.py",
+    "tests/test_forge.py",
+    "tests/test_invariants.py",
+    "tests/test_registry.py",
+    "tests/test_router_and_runner.py",
+    "tests/test_sync.py",
+    "walkthrough.md",
+    "walkthroughs/18_skills_2026_sota_upgrade_walkthrough.md"
+  ],
+  "files_by_basename": {
+    "dev_logs.txt": [
+      "dev_logs.txt"
+    ],
+    "README.md": [
+      "README.md"
+    ],
+    "walkthrough.md": [
+      "walkthrough.md"
+    ],
+    "sentinel.json": [
+      ".unigov/sentinel.json"
+    ],
+    "18_skills_unigov_upgrade_plan.md": [
+      "PLANNING/18_skills_unigov_upgrade_plan.md"
+    ],
+    "all skills_codebase_map.md": [
+      "PLANNING/all skills_codebase_map.md"
+    ],
+    "antigravity_skill_manager_deep_research.md": [
+      "PLANNING/antigravity_skill_manager_deep_research.md"
+    ],
+    "cognitive_brain_state.json": [
+      "PLANNING/cognitive_brain_state.json"
+    ],
+    "gsie_task_reviews.json": [
+      "PLANNING/gsie_task_reviews.json"
+    ],
+    "unicortex_holographic_manifest.json": [
+      "PLANNING/unicortex_holographic_manifest.json"
+    ],
+    "unicortex_vfs_manifest.json": [
+      "PLANNING/unicortex_vfs_manifest.json"
+    ],
+    "unigov_skills_taxonomy_911.md": [
+      "PLANNING/unigov_skills_taxonomy_911.md"
+    ],
+    "cli.py": [
+      "src/uniskill/cli.py"
+    ],
+    "elevate.py": [
+      "src/uniskill/elevate.py"
+    ],
+    "evaluator.py": [
+      "src/uniskill/evaluator.py"
+    ],
+    "forge.py": [
+      "src/uniskill/forge.py"
+    ],
+    "invariants.py": [
+      "src/uniskill/invariants.py"
+    ],
+    "learner.py": [
+      "src/uniskill/learner.py"
+    ],
+    "registry.py": [
+      "src/uniskill/registry.py"
+    ],
+    "router.py": [
+      "src/uniskill/router.py"
+    ],
+    "runner.py": [
+      "src/uniskill/runner.py"
+    ],
+    "sync.py": [
+      "src/uniskill/sync.py"
+    ],
+    "upgrader.py": [
+      "src/uniskill/upgrader.py"
+    ],
+    "__init__.py": [
+      "src/uniskill/__init__.py"
+    ],
+    "test_elevate.py": [
+      "tests/test_elevate.py"
+    ],
+    "test_evaluator.py": [
+      "tests/test_evaluator.py"
+    ],
+    "test_forge.py": [
+      "tests/test_forge.py"
+    ],
+    "test_invariants.py": [
+      "tests/test_invariants.py"
+    ],
+    "test_registry.py": [
+      "tests/test_registry.py"
+    ],
+    "test_router_and_runner.py": [
+      "tests/test_router_and_runner.py"
+    ],
+    "test_sync.py": [
+      "tests/test_sync.py"
+    ],
+    "18_skills_2026_sota_upgrade_walkthrough.md": [
+      "walkthroughs/18_skills_2026_sota_upgrade_walkthrough.md"
+    ]
+  },
+  "holographic_screens_vision": {}
+}
