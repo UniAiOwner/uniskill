@@ -14,7 +14,9 @@ from uniskill.invariants import parse_and_validate_frontmatter, InvariantViolati
 
 
 DEFAULT_SKILLS_ROOT = Path.home() / ".gemini" / "config" / "skills"
-DEFAULT_DB_PATH = Path("/media/uniai/UniAi/PROJECTS_MIGRATED/ALL SKILLS/.unigov/state.db")
+UNISKILL_DB_CANDIDATE = Path("/media/uniai/UniAi/PROJECTS_MIGRATED/uniskill/.unigov/state.db")
+FALLBACK_DB_CANDIDATE = Path("/media/uniai/UniAi/PROJECTS_MIGRATED/ALL SKILLS/.unigov/state.db")
+DEFAULT_DB_PATH = UNISKILL_DB_CANDIDATE if UNISKILL_DB_CANDIDATE.exists() else FALLBACK_DB_CANDIDATE
 
 # All Sovereign Skill Search Roots across Antigravity ecosystem
 ALL_SKILL_SEARCH_ROOTS = [

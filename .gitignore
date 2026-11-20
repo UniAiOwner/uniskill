@@ -32,3 +32,7 @@ ENV/
 *.swp
 *.swo
 .DS_Store
+*.log
+.unigov/*.log
+.unigov/*.db-shm
+.unigov/*.db-wal

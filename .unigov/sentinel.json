@@ -1,128 +1,20 @@
 {
   "active": true,
-  "last_pulse": "2026-11-19 23:26:31",
+  "last_pulse": "2026-11-20 09:41:21",
   "violations_count": 0,
   "violations": [],
   "recent_events": [
     {
-      "timestamp": "2026-11-19 23:26:31",
+      "timestamp": "2026-11-20 09:41:21",
       "event_type": "MODIFIED",
-      "file_path": "PLANNING/cognitive_brain_state.json",
-      "message": "MODIFIED PLANNING/cognitive_brain_state.json"
+      "file_path": "dev_logs.txt",
+      "message": "MODIFIED dev_logs.txt"
     },
     {
-      "timestamp": "2026-11-19 23:26:31",
+      "timestamp": "2026-11-20 09:41:21",
       "event_type": "MODIFIED",
-      "file_path": "PLANNING/cognitive_brain_state.json",
-      "message": "MODIFIED PLANNING/cognitive_brain_state.json"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/gsie_task_reviews.json",
-      "message": "MODIFIED PLANNING/gsie_task_reviews.json"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/gsie_task_reviews.json",
-      "message": "MODIFIED PLANNING/gsie_task_reviews.json"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/cognitive_brain_state.json",
-      "message": "MODIFIED PLANNING/cognitive_brain_state.json"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/cognitive_brain_state.json",
-      "message": "MODIFIED PLANNING/cognitive_brain_state.json"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "CREATED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "CREATED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "CREATED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-wal",
-      "message": "CREATED PLANNING/unicortex_holographic_store.db-wal"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/cognitive_brain_state.json",
-      "message": "MODIFIED PLANNING/cognitive_brain_state.json"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/cognitive_brain_state.json",
-      "message": "MODIFIED PLANNING/cognitive_brain_state.json"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "MODIFIED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "MODIFIED PLANNING/unicortex_holographic_store.db-shm"
-    },
-    {
-      "timestamp": "2026-11-19 23:26:23",
-      "event_type": "CREATED",
-      "file_path": "PLANNING/unicortex_holographic_store.db-shm",
-      "message": "CREATED PLANNING/unicortex_holographic_store.db-shm"
+      "file_path": "dev_logs.txt",
+      "message": "MODIFIED dev_logs.txt"
     }
   ]
 }
